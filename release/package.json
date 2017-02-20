@@ -1,0 +1,23 @@
+{
+  "name": "cube8",
+  "version": "0.0.0",
+  "description": "Simple OLAP Library for JSON Data",
+  "main": "nodejs/index.js",
+  "author": {
+    "name": "Manh Le",
+    "email": "quang.manh@gmail.com",
+    "url": "http://8thdensity.com"
+  },
+  "license": "Use + Distribution on any type of projects",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "OLAP JavaScript",
+    "Simple OLAP NodeJS",
+    "Programmable OLAP NodeJS",
+    "Programmable OLAP JavaScript"
+  ]
+
+}

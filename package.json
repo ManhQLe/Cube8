@@ -1,0 +1,17 @@
+{
+  "name": "cube8",
+  "version": "0.0.0",
+  "description": "Simple OLAP Library for JSON Data",
+  "main": "app.js",
+  "author": {
+    "name": "Manh Le",
+    "email": "quang.manh@gmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+
+}
