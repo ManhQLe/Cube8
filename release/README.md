@@ -3,6 +3,9 @@ OLAP Cube tool for JavaScript
 
 This useful tool helps JavaScript developers perform transformation on JSON data quickly through many flexible data operation such as drilling, grouping, slice data on different dimensions. Data after transformation can be used for custom HTML Pivot or charts.
 
+## Installation
+>npm i cube8
+
 ## Versions
 **Cube8.3** Original version on Github. [Tutorial](http://www.8thdensity.com/Cube8/Html8Full)
 
