@@ -31,12 +31,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="release\browser\Cube8.js" />
+    <Compile Include="release\browser\cube8.min.js" />
+    <Compile Include="release\nodejs\index.js" />
     <Compile Include="src\browser\Cube8.js" />
     <Compile Include="src\nodejs\index.js" />
     <Content Include="makerelease.bat" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="release\package.json" />
+    <Content Include="release\README.md" />
     <Content Include="SalesData.json" />
   </ItemGroup>
   <ItemGroup>

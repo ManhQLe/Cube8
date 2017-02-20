@@ -1,6 +1,6 @@
 {
   "name": "cube8",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple OLAP Library for JSON Data",
   "main": "nodejs/index.js",
   "author": {
@@ -10,8 +10,8 @@
   },
   "license": "Use + Distribution on any type of projects",
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/ManhQLe/Cube8"
   },
   "keywords": [
     "OLAP JavaScript",
