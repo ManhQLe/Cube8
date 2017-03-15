@@ -117,6 +117,9 @@ Cube8.prototype.GetDimFacts = function (Names) {
     return Facts;
 }
 
+Cube8.prototype.One = function () {
+    return this.GetMeasure();
+}
 
 /*
 q = {
