@@ -158,6 +158,10 @@ Cube8.prototype.GetMeasure = function (q) {
     return Rollup;
 }
 
+Cube8.prototype.One = function () {
+    return this.GetMeasure();
+}
+
 /*{
     dims: ["Dim1","Dim2"];
     rollup:1

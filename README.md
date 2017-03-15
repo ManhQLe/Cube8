@@ -161,6 +161,7 @@ q is the filter. Three cases:
 #### One
 ```javascript
 Cube8.prototye.One() - Return the total rollup.
+Equivalent call : Cube.GetMeasure();
 ```
 
 #### NestDim
@@ -193,10 +194,10 @@ Cube8.prototye.Table(Col,Row,RowFx,ColFx) - Return tabular table with one dimens
 
 #### Drill
 ```javascript
-Cube8.prototye.Table(Cols,Rows,RowFx,ColFx) - Return tabular table with one dimension as column and one dimension as Row
+Cube8.prototye.Drill(Cols,Rows,RowFx,ColFx) - Return tabular table with one dimension as column and one dimension as Row
 /*
-    Col - Array: Specify dimensions name as column
-    Row - Array: Specify dimensions name as row
+    Cols - Array: Specify dimensions names as columns
+    Rows - Array: Specify dimensions names as rows
     RowFx: function(dimname,Fact) { return custom object as group of multuple facts } optional
     ColFx: function(dimname,Fact) { return custom object as group of multuple facts}  optional
 
